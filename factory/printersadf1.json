@@ -1,0 +1,9 @@
+{
+	"name": "printersadf1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb2df80f-d37a-4aa4-b111-7d76fd7d10cc",
+		"tenantId": "83625528-b3ca-43e1-9604-1afcdaeebec3"
+	}
+}
